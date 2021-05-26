@@ -1,0 +1,14 @@
+/* You can customize theme styles here */
+.btn-primary {
+    position: relative;
+    color: #fff;
+    background-color: #289da9;
+    border-color: #289da9;
+    will-change: border-color,color,background-color;
+    -webkit-transition: border-color,color,background-color;
+    transition: border-color,color,background-color;
+    -webkit-transition-duration: .35s;
+    transition-duration: .35s;
+    -webkit-transition-timing-function: ease;
+    transition-timing-function: ease;
+}
