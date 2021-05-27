@@ -51,14 +51,13 @@ about:
   enable: true
   title: "Chi siamo?"
   content: '<p class="lead">
-    I am back, after a few days of vacationing with family. Weather was awesome, the beach was
-    full of nasty jelly-fish, yuk! All-in-all, life has been good. I hope life has been as
-    good for all of you.
+    Carlo e Stefano, Ingegneri e appassionati di Intelligenza Artificiale.
     </p>
     <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well as
-    leading of design & front-end teams. I enjoy designing and coding the UI as much as
-    talking with users to iterate and improve the experiences that reach business goals.
+    La nostra missione è rendere accessibile uno strumento rivoluzionaro al pari del fuoco e della tecnologia che ci ha permesso di arrivare sulla luna.
+    </p>
+    <p class="lead">
+    Per farlo, cerchiamo di spezzare in delle piccole pillole i concetti essenziali e attendiamo che la vostra curiosità faccia il resto.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -74,11 +73,11 @@ education:
   title: "Education"
   items:
     - university: "ONLINE LEARNING"
-      year: "2012-2017"
+      #year: "2012-2017"
       degree: "AI expert is an entry-level course to gain a solid understanding of AI principles"
 
     - university: "COMPANY TRAININGS"
-      year: "2009-2012"
+      #year: "2009-2012"
       degree: "Let's talk about your specific needs and see how we can help."
 
 # experience

@@ -2,8 +2,8 @@
 .btn-primary {
     position: relative;
     color: #fff;
-    background-color: #289da9;
-    border-color: #289da9;
+    background-color: #0F9DE0;
+    border-color: #0F9DE0;
     will-change: border-color,color,background-color;
     -webkit-transition: border-color,color,background-color;
     transition: border-color,color,background-color;
@@ -11,4 +11,17 @@
     transition-duration: .35s;
     -webkit-transition-timing-function: ease;
     transition-timing-function: ease;
+}
+
+.education::before {
+    content: '';
+    position: absolute;
+    left: 90px;
+    top: 0;
+    width: 75px;
+    height: 100%;
+    z-index: 1;
+    background-color: #D86162;
+    -webkit-transform: skew(-13deg);
+    transform: skew(-13deg);
 }
