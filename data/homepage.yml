@@ -1,7 +1,7 @@
 # showcase
 showcase:
   enable: true
-  title: "Intelligenza da buttare giù in un sorso"
+  title: "Intelligenza Artificiale da buttare giù in un sorso"
   subtitle: " "
   description: "Seguici su <a target='_blank' href='https://youtube.com/'>YouTube</a> e <a target='_blank' href='https://instagram.com/'>Instagram</a>"
   image:
@@ -74,17 +74,17 @@ education:
   items:
     - university: "ONLINE LEARNING"
       #year: "2012-2017"
-      degree: "AI expert is an entry-level course to gain a solid understanding of AI principles"
+      degree: "Corsi di apprendimento su Machine Learning disegnati per essere efficaci e pratici"
 
-    - university: "COMPANY TRAININGS"
+    - university: "CORPORATE TRAINING"
       #year: "2009-2012"
-      degree: "Let's talk about your specific needs and see how we can help."
+      degree: "Corsi di formazioni mirati per le esigenze sia tecniche che manageriali"
 
 # experience
 experience:
   enable: true
   #title: "Experience"
-  description: "I've helped multibillion dollar corporations in their AI transformation: teaching their teams, coaching their executives and building their AI projects (when I teach you AI, it's because I actually built it!)."
+  description: "Offriamo percorsi formativi rivolti ad appassionati e a chi pensa sia arrivato il momento di intraprendere una nuova carriera. Abbiamo anche un percorso per le aziende che voglio introdurre nuove competenze internalizzando il know-how."
   button:
     #icon: "icon-linkedin-fill"
     btnText: "Contattaci"
@@ -153,11 +153,11 @@ client_and_work:
         btnText: "Scopri"
         URL: "#"
       image:
-        x: "img/works/radity-finance.jpg"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/online-learning.png"
+        _2x: "img/works/online-learning@2x.png"
       is_even: true
 
-    - title: "COMPANY TRAININGS"
+    - title: "CORPORATE TRAINING"
       description: "Need to upskill your team or organisations? We tailor our trainings based on your needs, ranging from interactive and fun workshops to one-on-one coaching to develop your company's AI strategy.
 
       Let's talk about your specific needs and see how we can help."
@@ -166,25 +166,25 @@ client_and_work:
         btnText: "Scopri"
         URL: "#"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+        x: "img/works/company-traning_2.png"
+        _2x: "img/works/company-traning@2x.png"
       is_even: false
 
-    - title: "Project 3"
+    - title: "Professional Training"
       description: "Vulputate commodo at enim vehicula sollicitudin nam inceptos interdum leo diam faucibus. Phasellus sem accumsan massa et rhoncus quisque lacinia praesent gravida senectus class proin vitae primis."
       button:
         icon: "icon-arrow-right"
         btnText: "Case Study"
         URL: "#"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/professional-training.png"
+        _2x: "img/works/professional-training@2x.png"
       is_even: true
 
 # testimonial
 testimonial:
   enable: true
-  title: "Testimonials"
+  title: "Testimonianze"
   items:
     - name: "Daniel Jordan"
       position: "Phonet, CEO"
@@ -210,26 +210,26 @@ testimonial:
 # contact
 contact:
   enable: true
-  title: "Contact"
+  title: "Contatti"
   form:
     action: "#"
-    full_name: "Full Name"
-    email: "Email Address"
-    message: "Type Your Message Here"
+    full_name: "Nome"
+    email: "Email"
+    message: "Scrivi qui il tuo messaggio"
   email:
     title: "Email"
     email: '<a href="mailto:aipills@mail.com">aipills@mail.com</a>'
-  address:
-    title: "Address"
-    address: "AI Pills <br />Max-Bill-Platz 5, 8050 Zürich"
+  #address:
+    #title: "Address"
+    #address: "AI Pills <br />Max-Bill-Platz 5, 8050 Zürich"
   button:
     icon: "icon-mail-fill"
-    btnText: "Send Message"
+    btnText: "Invia"
 
 # newsletter
 newsletter:
   enable: true
-  title: "Newsletter subscription"
+  title: "Iscriviti alla nostra Newsletter"
   success_message: "Successfully subscribed"
   error_message: "Error while subscribing."
-  note: "We'll never share your email with anyone else."
+  #note: "We'll never share your email with anyone else."
